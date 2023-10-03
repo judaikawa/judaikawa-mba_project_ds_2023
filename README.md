@@ -1,1 +1,1 @@
-# judaikawa-mba_project_ds_2023
+# mba_project_ds_2023
